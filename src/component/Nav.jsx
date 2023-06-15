@@ -12,18 +12,18 @@ export default function Nav() {
           </a>
             <div className="h-[1px] w-[5%] bg-white " />
 
-            <a href="https://instagram.com/untitled_fig" target="_blank" rel="noopener">
+            <a href="https://instagram.com/untitled_fig" target="_blank" rel="noreferrer">
               <p className="hover:underline cursor-pointer underline-offset-1">IG</p>
             </a>
               <div className="h-[1px] w-[5%] bg-white " />
 
-            <a href="https://dribbble.com/soclarence" target="_blank" rel="noopener">
+            <a href="https://dribbble.com/soclarence" target="_blank" rel="noreferrer">
               <p className="hover:underline cursor-pointer underline-offset-1">Dr</p>
             </a>
 
             <div className="h-[1px] w-[5%] bg-white " />
             
-            <a href="https://twitter.com/3diale" target="_blank" rel="noopener">
+            <a href="https://twitter.com/3diale" target="_blank" rel="noreferrer">
               <p className="hover:underline cursor-pointer underline-offset-1">TW</p>
             </a>
             <div className="hidden lg:block pl-14">

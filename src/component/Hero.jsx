@@ -60,7 +60,7 @@ export default function Hero() {
             </div>
         </section>
         <div className="pt-10">
-            <a href="https://drive.google.com/file/d/1bJCUebxQX8h_N87n8tEY5r6-FWB82L36/view?usp=sharing" target="_blank" rel="noopener">
+            <a href="https://drive.google.com/file/d/1bJCUebxQX8h_N87n8tEY5r6-FWB82L36/view?usp=sharing" target="_blank" rel="noreferrer">
                 <button className="text-white underline">Resume</button>
             </a>
         </div>

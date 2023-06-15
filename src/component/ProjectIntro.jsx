@@ -28,7 +28,7 @@ export default function ProjectIntro(props) {
         </div>
 
         <div className='flex items-center mt-5 '>
-            <a href={props.liveSite} target="_blank" rel="noopener">
+            <a href={props.liveSite} target="_blank" rel="noreferrer">
                 <button className={`space-x-2 items-center justify-center border border-[#A6A6A6] rounded-full h-[2.5rem] mr-5 px-5 ${props.visibility}`}>
                     <Link
                 size="25"
