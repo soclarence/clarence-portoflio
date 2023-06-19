@@ -16,7 +16,7 @@ export default function Projects(props) {
   return (
     <div data-aos="fade" className="overflow-hidden px-5 lg:px-[4.5rem] w-[100vw] flex flex-col items-center justify-center">
       <div className="h-[0.5px] w-full bg-white " />
-      <Link to={props.link} className="w-full">
+      <Link role="link" to={props.link} className="w-full">
       <div className="w-full flex justify-between pt-9 text-white mb-10 mt-[-1]">
         <div className="w-[50%] md:w-fit">
           <p className="text-[1.5rem] font-bold text-[#A6A6A6] lg:text-[1.5rem] cursor-pointer">{props.name}</p>
@@ -35,8 +35,8 @@ export default function Projects(props) {
       </div>
       </Link>
 
-      <Link to={props.link} className="h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%]">
-        <div aria-label={props.projectAlt} className={`h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%] bg-cover cursor-pointer bg-center bg-no-repeat ${props.image}`}></div>
+      <Link role="link" to={props.link} className="h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%]">
+        <div className={`h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%] bg-cover cursor-pointer bg-center bg-no-repeat ${props.image}`}></div>
       </Link>
     </div>
   )
