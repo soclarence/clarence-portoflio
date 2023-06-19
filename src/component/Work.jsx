@@ -17,12 +17,14 @@ export default function Work() {
               taskII="Frontend Dev"
               link="/yourpadi"
               image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686137388/AdobeStock_411342745_u4lydi.webp')]"
+              projectAlt="Yourpadi — Project by Clarence"
             />
             <Projects 
               name= "2CANPLAY"
               dsc="Imagine dating app meets tiktok."
               year="2020"
               taskI="UI/UX"
+              projectAlt="2canplay - Project by Clarence"
               // taskII="Frontend Dev"
               link="/2canplay"
               image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686741290/clarence%20Portfolio%20images/2canplay/2canplay-clarence_idc2ta.webp')]"

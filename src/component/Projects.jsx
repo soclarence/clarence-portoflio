@@ -36,7 +36,7 @@ export default function Projects(props) {
       </Link>
 
       <Link to={props.link} className="h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%]">
-        <div className={`h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%] bg-cover cursor-pointer bg-center bg-no-repeat ${props.image}`}></div>
+        <div aria-label={props.projectAlt} className={`h-[40vh] lg:h-[80vh] bg-slate-400 w-[100%] bg-cover cursor-pointer bg-center bg-no-repeat ${props.image}`}></div>
       </Link>
     </div>
   )
