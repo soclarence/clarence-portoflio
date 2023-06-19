@@ -2,7 +2,7 @@ import { motion } from "framer-motion"
 
 export default function Hero() {
   return (
-    <div className="pb-[40%]  flex flex-col items-center justify-end lg:bg-cover bg-contain bg-no-repeat bg-top lg:bg-bottom bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686391597/Mask_group_c1qslv.png')] lg:bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686137309/clarence_ebudnh.png')] px-3 lg:px-0">
+    <div className="pb-[40%]  flex flex-col items-center justify-end lg:bg-cover bg-contain bg-no-repeat bg-top lg:bg-bottom bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686391597/Mask_group_c1qslv.webp')] lg:bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686137309/clarence_ebudnh.webp')] px-3 lg:px-0">
         <section className="flex flex-wrap-reverse h-[50%] items-end justify-between text-white lg:mt-0 mt-[30%] pt-[20%]">
             <div className=" w-[100%] lg:w-[49.5%] text-center lg:text-right">
                 <motion.div

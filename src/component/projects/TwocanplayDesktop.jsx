@@ -5,7 +5,7 @@ export default function TwocanplayDesktop() {
     <div>
         <section className="flex flex-row items-start relative">
             <div className=" w-[60%]">
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732703/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop_hglxdn.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732703/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop_hglxdn.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>01</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -13,7 +13,7 @@ export default function TwocanplayDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732701/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-1_ppyfim.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732701/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-1_ppyfim.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>02</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -21,7 +21,7 @@ export default function TwocanplayDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732700/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-4_v1oa20.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732700/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-4_v1oa20.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>03</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -29,7 +29,7 @@ export default function TwocanplayDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732700/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-2_euivqi.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732700/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-2_euivqi.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>04</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -37,7 +37,7 @@ export default function TwocanplayDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732702/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-3_b6kch9.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732702/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_Desktop-3_b6kch9.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>05</p>
                         <div className="h-[1px] w-[5%] bg-white"/>

@@ -12,7 +12,7 @@ export default function Loader() {
                     ease: "easeInOut", 
                     velocity: 50 }}>
                 <video className="hidden lg:block" width="320" height="240" muted autoplay="true" loop>
-                    <source src="https://res.cloudinary.com/dja3bc8xm/video/upload/v1686745655/clarence%20Portfolio%20images/EmojiMovie700572202_2_zz0dsy.mov" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dja3bc8xm/video/upload/v1686745655/clarence%20Portfolio%20images/EmojiMovie700572202_2_zz0dsy.mpeg" type="video/mp4" />
                 </video>
                 <img className="block lg:hidden" width="150" height="150" src="https://em-content.zobj.net/source/microsoft-teams/363/sign-of-the-horns_1f918.png" alt="" />
             </motion.div>

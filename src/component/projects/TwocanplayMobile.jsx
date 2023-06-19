@@ -28,15 +28,15 @@ export default function TwocanplayMobile() {
                 />
             
             <div className="mt-32 px-1 space-y-3">
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732707/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile_h30coi.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732707/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile_h30coi.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732703/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-2_ngfl7z.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732703/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-2_ngfl7z.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732702/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-1_fudbkt.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732702/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-1_fudbkt.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732705/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-4_jyqowe.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732705/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-4_jyqowe.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732704/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-3_idjpbc.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732704/clarence%20Portfolio%20images/2canplay/2canplay_-_Clarence_-_mobile-3_idjpbc.webp" alt="" />
             </div>
         </div>
         <Footer />

@@ -16,7 +16,7 @@ export default function Work() {
               taskI="UI/UX"
               taskII="Frontend Dev"
               link="/yourpadi"
-              image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686137388/AdobeStock_411342745_u4lydi.jpg')]"
+              image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686137388/AdobeStock_411342745_u4lydi.webp')]"
             />
             <Projects 
               name= "2CANPLAY"
@@ -25,7 +25,7 @@ export default function Work() {
               taskI="UI/UX"
               // taskII="Frontend Dev"
               link="/2canplay"
-              image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686741290/clarence%20Portfolio%20images/2canplay/2canplay-clarence_idc2ta.jpg')]"
+              image= "bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686741290/clarence%20Portfolio%20images/2canplay/2canplay-clarence_idc2ta.webp')]"
             />
         </section>
     </section>

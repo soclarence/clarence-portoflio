@@ -29,11 +29,11 @@ export default function YourpadiMobile() {
                 />
             
             <div className="mt-32 px-1 space-y-3">
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732769/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile_unzrbv.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732769/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile_unzrbv.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile-1_oym54n.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile-1_oym54n.webp" alt="" />
 
-                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile-2_efwhgb.jpg" alt="" />
+                <img data-aos="fade" src="https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_mobile-2_efwhgb.webp" alt="" />
             </div>
         </div>
         <Footer />

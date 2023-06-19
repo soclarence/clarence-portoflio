@@ -5,7 +5,7 @@ export default function YourpadiDesktop() {
     <div>
         <section className="flex flex-row items-start relative">
             <div className=" w-[60%]">
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop_igsuih.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732772/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop_igsuih.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>01</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -13,7 +13,7 @@ export default function YourpadiDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732768/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop-1_cefzmq.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732768/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop-1_cefzmq.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>02</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
@@ -21,7 +21,7 @@ export default function YourpadiDesktop() {
                     </section>
                 </div>
 
-                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732768/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop-2_n8uemy.jpg')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
+                <div className="bg-[url('https://res.cloudinary.com/dja3bc8xm/image/upload/v1686732768/clarence%20Portfolio%20images/yourpadi/yourpadi_-_Clarence_-_Desktop-2_n8uemy.webp')] h-screen w-full bg-contain bg-no-repeat bg-left bg-fixed grid relative items-end p-16">
                     <section className="flex items-center mix-blend-difference text-white space-x-3 text-sm sticky bottom-11">
                         <p>03</p>
                         <div className="h-[1px] w-[5%] bg-white"/>
