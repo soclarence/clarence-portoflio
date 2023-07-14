@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
-import Hero from "../component/Hero"
+// import Hero from "../component/Hero"
+import HeroAlt from "../component/HeroAlt"
 import Work from "../component/Work"
 import Footer from "../component/Footer"
 import Loader from "../component/Loader"
@@ -59,7 +60,8 @@ export default function Home() {
         <div></div>
       </motion.div>
 
-        <Hero />
+        {/* <Hero /> */}
+        <HeroAlt />
         <Work />
 
         <div className="px-5 lg:px-[4.5rem] text-sm pt-20 flex flex-wrap items-start lg:space-x-10 lg:space-y-0 space-y-10">

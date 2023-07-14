@@ -3,7 +3,7 @@ import Projects from "./Projects"
 export default function Work() {
 
   return (
-    <section className="flex flex-col items-center mt-[-18%] overflow-hidden px-5 lg:px-[4.5rem] w-full">
+    <section className="flex flex-col items-center overflow-hidden px-5 lg:px-[4.5rem] w-full">
         <div className="flex items-end justify-between w-full mb-10">
           <p className="uppercase lg:text-[3rem] lg:leading-[3.5rem] text-[2rem] leading-[2.5rem] text-white">Selected <br /> Work</p>
           <p className="text-white">20' — Present</p>

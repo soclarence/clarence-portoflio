@@ -6,7 +6,7 @@ export default function Nav() {
         <p className="font-bold text-[1.5rem] w-fit">
           <Link to="/">Ca.</Link>
         </p>
-        <div className="flex items-center  w-[80%] lg:text-base lg:w-[30%] space-x-3">
+        <div className="flex items-center justify-end  w-[80%] lg:text-base lg:w-[40%] space-x-3">
           <a href="mailto:clarenceaigbuza@gmail.com">
             <p className="hover:underline cursor-pointer underline-offset-1">Email Me.</p>
           </a>

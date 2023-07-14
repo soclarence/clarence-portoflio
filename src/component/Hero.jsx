@@ -27,7 +27,7 @@ export default function Hero() {
                                 delay: 5, 
                                 ease: [0, 0.71, 0.2, 1.01], 
                                 velocity: 50 }}>
-                            Product
+                            Front-end
                         </motion.div>
                     </span>
                     <span className="overflow-hidden h-[3.2rem]">
@@ -40,7 +40,7 @@ export default function Hero() {
                                 ease: [0, 0.71, 0.2, 1.01], 
                                 velocity: 50 
                                 }}>
-                            Designer/Web
+                            Developer
                         </motion.div>
                     </span>
                     <span className="overflow-hidden h-[3.2rem]">
@@ -53,7 +53,7 @@ export default function Hero() {
                                 ease: [0, 0.71, 0.2, 1.01], 
                                 velocity: 50 
                                 }}>
-                            developer
+                            UI Designer
                         </motion.div>
                     </span> 
                 </h1>
