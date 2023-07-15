@@ -15,7 +15,7 @@ export default function HeroAlt() {
                 </p>
 
                 <div className="py-5 flex space-x-6">
-                    <a href="https://drive.google.com/file/d/1bJCUebxQX8h_N87n8tEY5r6-FWB82L36/view?usp=sharing" target="_blank" rel="noreferrer">
+                    <a href="https://drive.google.com/file/d/1AQfIkJfYOY8HFcJ1dL0oIZHmA5xUO0pb/view" target="_blank" rel="noreferrer">
                         <button className="text-white underline">Resume</button>
                     </a>
                     <a href="https://github.com/soclarence" target="_blank" rel="noreferrer">
